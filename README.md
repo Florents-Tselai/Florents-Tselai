@@ -15,4 +15,7 @@ Some of my open-source projects are
 * [WarcDB](https://github.com/Florents-Tselai/WarcDB): A tool that serves crawl data as SQLite databases.
 * [vasco](https://github.com/Florents-Tselai/vasco): An extension that brings correlation discovery to another level.
 
+The project I'm mostly proud of is [diofanti.org](https://diofanti.org) : 
+A tool that monitors public spending in the Greek government.
+
 You can find more about me at [tselai.com](https://tselai.com) or my [LinkedIn](https://www.linkedin.com/in/florentstselai/).
