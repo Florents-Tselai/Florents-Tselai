@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Florents-Tselai/Florents-Tselai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Florents, and I'm based in Greece.
 
-Here are some ideas to get you started:
+I typically work on Special Data Ops projects as a consultant.
+Reach out if we could work together on something interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My toolbelt combines Unix, Python, Postgres, and lots of common sense.
+
+I have a particular interest in web crawling & scraping. 
+
+Some of my open-source projects are
+
+* [pgJQ](https://github.com/Florents-Tselai/pgJQ): A Postgres extension that brings jq to Postgres and SQL
+* [WarcDB](https://github.com/Florents-Tselai/WarcDB): A tool that serves crawl data as SQLite databases.
+* [vasco](https://github.com/Florents-Tselai/vasco): An extension that brings correlation discovery to another level.
+
+You can find more about me at [tselai.com](https://tselai.com) or my [LinkedIn](https://www.linkedin.com/in/florentstselai/).
