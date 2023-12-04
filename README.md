@@ -2,9 +2,6 @@
 
 I'm Florents, and I'm based in Greece.
 
-I typically work on Data Special Ops projects as a consultant.
-Reach out if we could work together on something interesting.
-
 My toolbelt combines Unix, Python, Postgres, and lots of common sense.
 
 I have a particular interest in web crawling & scraping. 
