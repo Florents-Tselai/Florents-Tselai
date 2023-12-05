@@ -4,7 +4,8 @@ I'm Florents, and I'm based in Greece.
 
 My toolbelt combines Unix, Python, Postgres, and lots of common sense.
 
-I have a particular interest in web crawling & scraping. 
+I have a particular interest in web crawling & scraping.
+For the last few months, I've been busy bringing Python and Postgres closer together.
 
 Some of my open-source projects are
 
