@@ -8,7 +8,7 @@ I have a particular interest in web crawling & scraping.
 For the last few months, I've been busy bringing Python and Postgres closer together.
 
 Some of my open-source projects are
-
+* [liteJQ](https://github.com/Florents-Tselai/liteJQ): `jq` extension for SQLite.
 * [babar](https://github.com/Florents-Tselai/babar): 🐘❤️🐍 Babar is a Python library that transforms any Python object into a Postgres extension.
 * [PyPgConfig](https://github.com/Florents-Tselai/PyPGConfig): `PyPgConfig` offers Pythonic access to `pg_config`.
 * [cookiecutter-postgres-extension](https://github.com/Florents-Tselai/cookiecutter-postgres-extension): A cookiecutter template for a Postgres extension
