@@ -8,6 +8,7 @@ I have a particular interest in web crawling & scraping.
 For the last few months, I've been busy bringing Python and Postgres closer together.
 
 Some of my open-source projects are
+* [tsellm](https://github.com/Florents-Tselai/tsellm): Interactive SQLite shell with LLM support.
 * [liteJQ](https://github.com/Florents-Tselai/liteJQ): `jq` extension for SQLite.
 * [cookiecutter-postgres-extension](https://github.com/Florents-Tselai/cookiecutter-postgres-extension): A cookiecutter template for a Postgres extension
 * [pgJQ](https://github.com/Florents-Tselai/pgJQ): A Postgres extension that brings jq to Postgres and SQL
