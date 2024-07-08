@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/florentstselai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/sponsors/Florents-Tselai/"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/Florents-Tselai/"></a>
+[![contact](https://img.shields.io/badge/contact-email-red)](mailto:florents@tselai.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florentstselai/)
+[![blog](https://img.shields.io/badge/blog-tselai.com-brightgreen)](https://tselai.com/?utm_source=github_readme)
+[![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/Florents-Tselai/)](https://github.com/sponsors/Florents-Tselai/)
 
 I'm Florents, and I'm based in Greece.
 
