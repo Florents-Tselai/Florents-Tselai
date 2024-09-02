@@ -14,7 +14,7 @@ I have a particular interest in web crawling & scraping.
 For the last few months, I've been busy bringing Python and Postgres closer together.
 
 Some of my open-source projects are
-* [duckdb-utils](https://github.com/Florents-Tselai/duckdb-utils): LI tool and Python library for manipulating DuckDB databases
+* [pgllm](https://github.com/Florents-Tselai/pgllm): pgllm: Use LLMs in Postgres
 * [tsellm](https://github.com/Florents-Tselai/tsellm): tsellm: Use LLMs in SQLite and DuckDB
 * [liteJQ](https://github.com/Florents-Tselai/liteJQ): `jq` extension for SQLite.
 * [pgJQ](https://github.com/Florents-Tselai/pgJQ): A Postgres extension that brings jq to Postgres and SQL
