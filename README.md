@@ -15,7 +15,7 @@ For the last few months, I've been busy bringing Python and Postgres closer toge
 
 Some of my open-source projects are
 * [pgllm](https://github.com/Florents-Tselai/pgllm): pgllm: Use LLMs in Postgres
-* [jsonb_apply](https://github.com/Florents-Tselai/jsonb_apply): Functional json for Postgres
+* [jsonb_apply](https://github.com/Florents-Tselai/jsonb_apply): Postgres JSON with a functional twist
 * [tsellm](https://github.com/Florents-Tselai/tsellm): tsellm: Use LLMs in SQLite and DuckDB
 * [liteJQ](https://github.com/Florents-Tselai/liteJQ): `jq` extension for SQLite.
 * [pgJQ](https://github.com/Florents-Tselai/pgJQ): A Postgres extension that brings jq to Postgres and SQL
