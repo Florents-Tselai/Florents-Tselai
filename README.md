@@ -15,6 +15,8 @@ For the last few months, I've been busy bringing Python and Postgres closer toge
 
 Some of my open-source projects are
 
+* [libxicor](https://github.com/Florents-Tselai/libxicor): libxicor: Pure C implementation of the XI (ξ) Correlation Coefficient
+
 #### Postgres Extensions
 
 * [pgllm](https://github.com/Florents-Tselai/pgllm): pgllm: Use LLMs in Postgres
