@@ -19,6 +19,7 @@ Some of my open-source projects are
 
 #### Postgres Extensions
 
+* [pgxicor](https://github.com/Florents-Tselai/pgxicor): XI (ξ) Correlation Coefficient available as a `xicor(X,Y)` aggregate function in Postgres
 * [pgllm](https://github.com/Florents-Tselai/pgllm): pgllm: Use LLMs in Postgres
 * [pgPDF](https://github.com/Florents-Tselai/pgPDF): pgPDF: Query PDFs from Postgres
 * [jsonb_apply](https://github.com/Florents-Tselai/jsonb_apply): Postgres JSON with a functional twist
