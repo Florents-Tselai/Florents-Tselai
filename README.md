@@ -8,10 +8,15 @@
 
 I'm Florents, and I'm based in Greece.
 
-My toolbelt combines Unix, Python, Postgres, and lots of common sense.
+I build data tools for a living. 
+Usually with Postgres.
+My interests lie somewhere between database engineering, AI, web crawling, and data journalism.
 
-I have a particular interest in web crawling & scraping.
-For the last few months, I've been busy bringing Python and Postgres closer together.
+I have research, engineering, and leadership experience across the entire data supply chain, 
+from modeling and applying machine learning algorithms to engineering and managing production deployments of big data pipelines.
+
+Some companies I have worked for or consulted for include BCG, Deutsche Telekom, BASF, GfK, XING, BMW, and Advantest, among others. 
+My professional profile is on [LinkedIn](https://www.linkedin.com/in/florentstselai/).
 
 Some of my open-source projects are
 
